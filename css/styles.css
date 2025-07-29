@@ -1,19 +1,12 @@
+* {
+    margin: auto;
+    font-style: italic;
+    padding: auto;
+    margin-top: 10px;
+}
+
 h1 {
     text-align: center;
-    font-family: sans-serif;
-    color: white;
-    box-shadow: 10px 10px 5px rgba(251, 241, 241, 0.5);
+    color: tomato;
 }
 
-body {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-
-img {
-    width: 50%;
-    height: auto;
-    border-radius: 10px;
-    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.2);
-}
